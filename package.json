@@ -1,6 +1,7 @@
 {
-  "name": "tbs-theme-id",
-  "displayName": "tbs-theme",
+  "name": "Tbs-theme",
+  "publisher": "Tbs-theme",
+  "displayName": "Tbs-theme",
   "description": "new tbs theme",
   "version": "0.0.1",
   "engines": {

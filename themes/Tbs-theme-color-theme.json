@@ -729,7 +729,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#f78c6c"
+        "foreground": "#89ddff"
       }
     },
     {
@@ -778,14 +778,14 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#faa84b"
+        "foreground": "#F97583"
       }
     },
     {
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#faa84b"
+        "foreground": "#709eff"
       }
     },
     {
@@ -801,7 +801,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#faa84b"
+        "foreground": "#709eff"
       }
     },
     {
