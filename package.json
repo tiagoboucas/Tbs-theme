@@ -1,0 +1,21 @@
+{
+  "name": "tbs-theme-id",
+  "displayName": "tbs-theme",
+  "description": "new tbs theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tbs-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tbs-theme-color-theme.json"
+      }
+    ]
+  }
+}
