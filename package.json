@@ -2,8 +2,8 @@
   "name": "Tbs-theme",
   "publisher": "Tbs-theme",
   "displayName": "Tbs-theme",
-  "description": "new tbs theme",
-  "version": "0.0.1",
+  "description": "Dark theme. Designed for the modern developer, this theme is a symphony of deep, soothing dark backgrounds contrasted with carefully selected vibrant colors that bring your code to life.",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.86.0"
   },
