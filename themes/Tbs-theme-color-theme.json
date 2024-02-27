@@ -729,7 +729,7 @@
 			"name": "Meta tag",
 			"scope": "meta.tag",
 			"settings": {
-				"foreground": "#f78c6c"
+				"foreground": "#89ddff"
 			}
 		},
 		{
@@ -778,14 +778,14 @@
 			"name": "Tags",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#faa84b"
+				"foreground": "#F97583"
 			}
 		},
 		{
 			"name": "Attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#faa84b"
+				"foreground": "#709eff"
 			}
 		},
 		{
@@ -801,7 +801,7 @@
 			"scope": "entity.other.attribute-name.class.css",
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#faa84b"
+				"foreground": "#709eff"
 			}
 		},
 		{
@@ -1800,7 +1800,7 @@
 		"menu.selectionBorder": "#00000000",
 		"menu.separatorBackground": "#bbbbbb",
 		"menu.border": "#00000085",
-		"button.background": "#faa84b",
+		"button.background": "#0e639c",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#1177bb",
 		"button.secondaryForeground": "#ffffff",
@@ -1817,7 +1817,7 @@
 		"editor.background": "#1e1e1e",
 		"editor.foreground": "#f78c6c",
 		"editorLineNumber.foreground": "#858585",
-		"editorCursor.foreground": "#f07172",
+		"editorCursor.foreground": "#aeafad",
 		"editorCursor.background": "#000000",
 		"editor.selectionBackground": "#264f78",
 		"editor.inactiveSelectionBackground": "#3a3d41",
@@ -1847,10 +1847,10 @@
 		"editor.foldBackground": "#264f784d",
 		"editorOverviewRuler.background": "#25252500",
 		"editorOverviewRuler.border": "#7f7f7f4d",
-		"editorError.foreground": "#ff0000",
+		"editorError.foreground": "#f48771",
 		"editorError.background": "#B73A3400",
 		"editorError.border": "#ffffff00",
-		"editorWarning.foreground": "#ff3c00",
+		"editorWarning.foreground": "#cca700",
 		"editorWarning.background": "#A9904000",
 		"editorWarning.border": "#ffffff00",
 		"editorInfo.foreground": "#75beff",
@@ -1981,8 +1981,8 @@
 		"minimapGutter.deletedBackground": "#94151b",
 		"minimap.findMatchHighlight": "#515c6a",
 		"minimap.selectionHighlight": "#264f78",
-		"minimap.errorHighlight": "#ff0000",
-		"minimap.warningHighlight": "#ff3c00",
+		"minimap.errorHighlight": "#f48771",
+		"minimap.warningHighlight": "#cca700",
 		"minimap.background": "#1e1e1e",
 		"sideBar.dropBackground": "#383b3d",
 		"editorGroup.emptyBackground": "#1e1e1e",
